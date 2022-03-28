@@ -1,8 +1,7 @@
-
-
 :arrow_forward:[ Github page : https://wdstar09.github.io/ ]
 
 :arrow_forward:[ - STATUS - ]
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wdstar09&show_icons=true&theme=github_dark)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_dragon)](https://solved.ac/s_dragon)
@@ -23,6 +22,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/sapphiredragon) -->
+
+<!-- ![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wdstar09&layout=compact&theme=github_dark&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
  -->
 <!-- ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{your id})
