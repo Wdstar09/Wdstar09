@@ -1,4 +1,4 @@
-:arrow_forward:[ Github page : https://wdstar09.github.io/ ]
+:arrow_forward:[ Github blog : https://wdstar09.github.io/ ]
 
 :arrow_forward:[ - STATUS - ]
 
