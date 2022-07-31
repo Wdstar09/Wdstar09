@@ -1,4 +1,4 @@
-:arrow_forward:[ Github blog : https://wdstar09.github.io/ ]
+
 
 :arrow_forward:[ - STATUS - ]
 
@@ -9,6 +9,9 @@
 
 
 <!--
+:arrow_forward:[ Github blog : https://wdstar09.github.io/ ]
+블로그 다시 살려두기 (필기 저장하면)
+
 **Wdstar09/Wdstar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
